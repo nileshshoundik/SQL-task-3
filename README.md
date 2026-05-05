@@ -1,2 +1,1 @@
-# SQL-task-3
-StudentManagement 
+SQL Data Analysis Internship – Task 3
